@@ -7,5 +7,5 @@ Hi there, I'm Prakash 👋
 🤝 I’m looking to collaborate on web projects.
 
 🥅 2022 Goal: Start contributing to Open Source projects!
-⚡ Hobbie: I love build web apps!
+⚡ Hobbie: I love to build web apps!
 
